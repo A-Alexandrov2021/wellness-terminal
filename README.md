@@ -1,8 +1,7 @@
-# AI Wellness Terminal
+AI Wellness Terminal
 
 An edge-ready, fully local voice-interactive AI terminal designed for real-time wellness triage, privacy-first diagnostics, and low-latency audio interaction.
 
----
 
 ## 🏗 Architecture & Hardware Stack
 
@@ -18,7 +17,7 @@ An edge-ready, fully local voice-interactive AI terminal designed for real-time 
 ## 🛠 System Requirements & Prerequisites
 
 * **OS:** Linux (Ubuntu / WSL2)
-* **GPU:** NVIDIA GPU with $\ge$6GB VRAM (RTX 3060 12GB recommended)
+* **GPU:** NVIDIA GPU with >=6GB VRAM (RTX 3060 12GB recommended)
 * **System RAM:** 16GB RAM minimum
 * **CUDA Support:** CUDA 12.x drivers installed
 
