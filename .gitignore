@@ -1,4 +1,3 @@
-venv/
 env/
 /tmp/
 *.wav
@@ -18,3 +17,4 @@ __pycache__/
 .vscode/
 .idea/
 LivePortrait/
+ditto-talkinghead/venv_ditto/
