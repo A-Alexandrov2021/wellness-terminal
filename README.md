@@ -1,4 +1,4 @@
-# AI Wellness Terminal 
+# AI Wellness Assistant / Terminal 
 
 An edge-ready, fully local voice-interactive AI terminal designed for real-time wellness triage, privacy-first diagnostics, and low-latency audio interaction.
 
